@@ -2,7 +2,7 @@
 > this app web to improva my skill using api 
 
 <p align="center">
-  <img src="URL_SCREENSHOT_ATAU_GIF_DEMO_PROYEK_ANDA" alt="demo proyek" width="600"/>
+  <img src="https://github.com/farhandavin/1.4capstone_project/issues/1#issue-3285912376" alt="demo proyek" width="600"/>
 </p>
 
 this app is for training my self to impove my api,node,express,and ejs
